@@ -1,0 +1,6 @@
+[2025-05-07 11:58:09.650540] Extracted 14 files frim F1 Kaggle dataset.
+[2025-05-07 12:03:24.536406] Extracted 14 files frim F1 Kaggle dataset.
+[2025-05-07 12:17:25.514844] Extracted 14 files frim F1 Kaggle dataset.
+[2025-05-07 12:17:53.094426] Extracted 14 files frim F1 Kaggle dataset.
+[2025-05-07 12:29:22.236723] Extracted 14 files frim F1 Kaggle dataset.
+[2025-05-07 12:29:22.255801] ✅ Cleaned drivers.csv → clean_data/drivers_clean_20250507_1229.csv (rows: 861)
